@@ -1,0 +1,65 @@
+setwd("/Users/srblanco/Desktop/")
+
+library(tidyverse)
+library(dplyr)
+library(ggplot2)
+
+#import Zooniverse data
+
+subjects <- read.csv("the-colors-of-pollen-subjects.csv")
+question_extractor <- read.csv("question_extractor_results2.csv")
+questions_reduced <- read.csv("question_reducer_results2.csv")
+questions_with_info<- merge(subjects, questions_reduced,by="subject_id")
+questions_with_info_retired <- filter(questions_with_info, classifications_count >= 1)
+questions_with_info_retired$gbifID<- substr(questions_with_info_retired$metadata,14,23)
+
+#check
+head(questions_with_info_retired)
+
+#reshapes the data
+gather <- gather(questions_with_info_retired,response,value,data.yes:data.orange, na.rm = TRUE)
+
+#only keeps images that have a flowers with anthers
+gather_flowerswithanther <- gather %>% 
+  filter(task == "T0" | task == "T1" | task == "T2" | value >= 5) 
+
+#only keeps stage & color responses
+gather_colorresponses <- gather_flowerswithanther %>% filter(task == "T3" | task == "T4" | task == "T5" | task == "T6" | task == "T7")
+
+#removes irrelevant response
+gather_colorresponses<-subset(gather_colorresponses, response!="data.aggregation_version")
+
+#only keeps 1 workflow (removes duplicate responses)
+gather_colorresponses<-filter(gather_colorresponses, workflow_id.x == 21619)
+
+#renames tasks to more human readable  names
+gather_colorresponses <- gather_colorresponses %>%
+  mutate(task = recode(task, T3 = 'Late,Early,Both', T4 = 'MainColor_Early', T5 =  'MarginColor_Early', T6 =  'MainColor_Late', T7 =  'PollenColor' ))
+
+#renames responses to more human readable names
+gather_colorresponses <- gather_colorresponses %>%
+  mutate(response = recode(response, data.one.i.only.see.late.stage.anthers = 'Late', data.one.i.only.see.early.stage.anthers = 'Early', data.purple =  'Purple', data.the.margins.are.not.colored.differently.from.the.rest.of.the.anther =  'NoMarginColor', data.na.not.applicable =  'NA', 	
+                           data.i.don.t.see.any.pollen = 'PollenNotVisible', data.two.i.see.both.early.and.late.stage.anthers = 'EarlyAndLate', data.pink = 'Pink', data.white = 'White', data.cream = 'cream', data.black = 'Black', data.brown = 'Brown', data.yellow = 'Yellow' ))
+
+#only keeps color response values greater than 5 for QC
+gather_colorresponses_QC <- gather_colorresponses %>% 
+  filter(value >= 1) 
+
+#creates new sheet with the 5 specified columns
+gather_colorresponses_QC_short<- gather_colorresponses_QC %>%
+  select(subject_set_id, subject_id, locations, task, response) ##here
+
+#pivot wider reshapes the data to summary table by each image
+summary_colorresponses <- gather_colorresponses_QC_short %>%
+  pivot_wider(names_from = "task", values_from = "response", values_fn = list)
+
+#renames subject set id to species
+summary_colorresponses <- summary_colorresponses %>%
+  mutate(subject_set_id = recode(subject_set_id, '105347' = 'asphodeloides', '105435' = 'gracile', '105506' =  'platypetalum', '105378' =  'atlanticum', '105423' =  'divaricatum' ))
+
+#cleans up links
+summary_colorresponses$locations <- substr(summary_colorresponses$locations,7,nchar(summary_colorresponses$locations)-2) 
+
+#export
+summary_colorresponses <- as.data.frame(summary_colorresponses)
+write_csv(summary_colorresponses, "ZooniverseCleanedOutput09022022.csv")
