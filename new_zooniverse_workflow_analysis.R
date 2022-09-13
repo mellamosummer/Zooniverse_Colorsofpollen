@@ -1,4 +1,4 @@
-setwd("/Users/srblanco/Desktop/")
+setwd("/Users/summerblanco/Desktop/Github/Zooniverse_Colorsofpollen")
 
 library(tidyverse)
 library(dplyr)
@@ -20,8 +20,8 @@ head(questions_with_info_retired)
 gather <- gather(questions_with_info_retired,response,value,data.yes:data.orange, na.rm = TRUE)
 
 #only keeps images that have a flowers with anthers
-gather_flowerswithanther <- gather %>% 
-  filter(task == "T0" | task == "T1" | task == "T2" | value >= 5) 
+gather_flowerswithanther <- gather %>%
+  filter(task == "T0" | task == "T1" | task == "T2" | value >= 5)
 
 #only keeps stage & color responses
 gather_colorresponses <- gather_flowerswithanther %>% filter(task == "T3" | task == "T4" | task == "T5" | task == "T6" | task == "T7")
@@ -38,12 +38,12 @@ gather_colorresponses <- gather_colorresponses %>%
 
 #renames responses to more human readable names
 gather_colorresponses <- gather_colorresponses %>%
-  mutate(response = recode(response, data.one.i.only.see.late.stage.anthers = 'Late', data.one.i.only.see.early.stage.anthers = 'Early', data.purple =  'Purple', data.the.margins.are.not.colored.differently.from.the.rest.of.the.anther =  'NoMarginColor', data.na.not.applicable =  'NA', 	
+  mutate(response = recode(response, data.one.i.only.see.late.stage.anthers = 'Late', data.one.i.only.see.early.stage.anthers = 'Early', data.purple =  'Purple', data.the.margins.are.not.colored.differently.from.the.rest.of.the.anther =  'NoMarginColor', data.na.not.applicable =  'NA',
                            data.i.don.t.see.any.pollen = 'PollenNotVisible', data.two.i.see.both.early.and.late.stage.anthers = 'EarlyAndLate', data.pink = 'Pink', data.white = 'White', data.cream = 'cream', data.black = 'Black', data.brown = 'Brown', data.yellow = 'Yellow' ))
 
 #only keeps color response values greater than 5 for QC
-gather_colorresponses_QC <- gather_colorresponses %>% 
-  filter(value >= 1) 
+gather_colorresponses_QC <- gather_colorresponses %>%
+  filter(value >= 1)
 
 #creates new sheet with the 5 specified columns
 gather_colorresponses_QC_short<- gather_colorresponses_QC %>%
@@ -58,7 +58,7 @@ summary_colorresponses <- summary_colorresponses %>%
   mutate(subject_set_id = recode(subject_set_id, '105347' = 'asphodeloides', '105435' = 'gracile', '105506' =  'platypetalum', '105378' =  'atlanticum', '105423' =  'divaricatum' ))
 
 #cleans up links
-summary_colorresponses$locations <- substr(summary_colorresponses$locations,7,nchar(summary_colorresponses$locations)-2) 
+summary_colorresponses$locations <- substr(summary_colorresponses$locations,7,nchar(summary_colorresponses$locations)-2)
 
 #export
 summary_colorresponses <- as.data.frame(summary_colorresponses)
