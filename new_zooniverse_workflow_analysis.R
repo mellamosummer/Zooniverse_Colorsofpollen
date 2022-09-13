@@ -1,4 +1,4 @@
-setwd("/Users/summerblanco/Desktop/Github/Zooniverse_Colorsofpollen")
+setwd("/Users/summerblanco/Desktop/Github/Zooniverse_Colorsofpollen/RawData/")
 
 library(tidyverse)
 library(dplyr)
