@@ -1,0 +1,1958 @@
+allow_missing: false
+file_column: []
+manifest_files: !!python/tuple
+- nodosum.csv
+mime_type: !!python/tuple
+- image/jpeg
+remote_location: !!python/tuple
+- 1
+state_version: 1
+subject_set_id: 105494
+waiting_to_link: {}
+waiting_to_upload:
+- !!python/tuple
+  - 306
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/82856887/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/82856887/original.jpeg
+      metadata: '3097266434'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 331
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/129103579/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/129103579/original.jpeg
+      metadata: '3118278856'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 347
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/130940743/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/130940743/original.jpeg
+      metadata: '3124669170'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 356
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/133421371/original.jpg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/133421371/original.jpg
+      metadata: '3302215562'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 364
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/136224064/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/136224064/original.jpeg
+      metadata: '3307132081'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 372
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/135724710/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/135724710/original.jpeg
+      metadata: '3307367866'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 377
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/91932519/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/91932519/original.jpeg
+      metadata: '3307447363'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 381
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/136384173/original.jpg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/136384173/original.jpg
+      metadata: '3314160582'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 385
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/86644422/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/86644422/original.jpeg
+      metadata: '3314166352'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 389
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/86643706/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/86643706/original.jpeg
+      metadata: '3314166352'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 393
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/110758284/original.jpg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/110758284/original.jpg
+      metadata: '3314173395'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 397
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/132413156/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/132413156/original.jpeg
+      metadata: '3314217489'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 400
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/132413208/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/132413208/original.jpeg
+      metadata: '3314260479'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 402
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/137956391/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/137956391/original.jpeg
+      metadata: '3314306184'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 404
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/137956420/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/137956420/original.jpeg
+      metadata: '3314306184'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 406
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/138072734/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/138072734/original.jpeg
+      metadata: '3314382247'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 408
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/137403715/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/137403715/original.jpeg
+      metadata: '3314508804'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 410
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/135270356/original.jpg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/135270356/original.jpg
+      metadata: '3314511491'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 412
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/140120426/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/140120426/original.jpeg
+      metadata: '3320988442'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 414
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/139722749/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/139722749/original.jpeg
+      metadata: '3321201274'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 416
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/133120862/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/133120862/original.jpeg
+      metadata: '3325678453'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 418
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/134301404/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/134301404/original.jpeg
+      metadata: '3325678470'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 420
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/140489319/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/140489319/original.jpeg
+      metadata: '3325681658'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 422
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/140487065/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/140487065/original.jpeg
+      metadata: '3325681658'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 424
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/142375219/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/142375219/original.jpeg
+      metadata: '3327706849'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 425
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/142375354/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/142375354/original.jpeg
+      metadata: '3327706849'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 426
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/142375314/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/142375314/original.jpeg
+      metadata: '3327706849'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 427
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/142374875/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/142374875/original.jpeg
+      metadata: '3327706849'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 428
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/142375264/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/142375264/original.jpeg
+      metadata: '3327706849'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 429
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/58489686/original.jpg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/58489686/original.jpg
+      metadata: '3327717332'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 430
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/143588529/original.jpg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/143588529/original.jpg
+      metadata: '3327874564'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 431
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/143588482/original.jpg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/143588482/original.jpg
+      metadata: '3327874564'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 432
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/134441892/original.jpg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/134441892/original.jpg
+      metadata: '3327883457'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 433
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/134440764/original.jpg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/134440764/original.jpg
+      metadata: '3327883457'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 434
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/133340095/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/133340095/original.jpeg
+      metadata: '3327894454'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 435
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/141211053/original.jpg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/141211053/original.jpg
+      metadata: '3327922582'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 436
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/140960426/original.jpg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/140960426/original.jpg
+      metadata: '3327945570'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 437
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/142738702/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/142738702/original.jpeg
+      metadata: '3327962075'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 438
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/142923706/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/142923706/original.jpeg
+      metadata: '3327963181'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 439
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/141147616/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/141147616/original.jpeg
+      metadata: '3327972582'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 440
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/45172973/original.jpg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/45172973/original.jpg
+      metadata: '3327982324'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 441
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/132858015/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/132858015/original.jpeg
+      metadata: '3328036435'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 442
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/143707945/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/143707945/original.jpeg
+      metadata: '3328094621'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 443
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/143708008/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/143708008/original.jpeg
+      metadata: '3328094621'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 444
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/60295834/original.jpg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/60295834/original.jpg
+      metadata: '3330408334'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 445
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/142903409/original.jpg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/142903409/original.jpg
+      metadata: '3330416562'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 446
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/136936274/original.jpg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/136936274/original.jpg
+      metadata: '3330447472'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 447
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/136937236/original.jpg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/136937236/original.jpg
+      metadata: '3330447472'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 448
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/143877988/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/143877988/original.jpeg
+      metadata: '3330448669'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 449
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/108879319/original.jpg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/108879319/original.jpg
+      metadata: '3330464380'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 450
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/108879302/original.jpg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/108879302/original.jpg
+      metadata: '3330464380'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 451
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/108879331/original.jpg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/108879331/original.jpg
+      metadata: '3330464380'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 452
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/108879308/original.jpg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/108879308/original.jpg
+      metadata: '3330464380'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 453
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/108879316/original.jpg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/108879316/original.jpg
+      metadata: '3330464380'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 454
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/108879306/original.jpg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/108879306/original.jpg
+      metadata: '3330464380'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 455
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/108879310/original.jpg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/108879310/original.jpg
+      metadata: '3330464380'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 456
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/108879324/original.jpg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/108879324/original.jpg
+      metadata: '3330464380'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 457
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/144134873/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/144134873/original.jpeg
+      metadata: '3330480822'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 458
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/144134836/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/144134836/original.jpeg
+      metadata: '3330480822'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 459
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/70866153/original.jpg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/70866153/original.jpg
+      metadata: '3330651343'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 460
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/112177857/original.jpg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/112177857/original.jpg
+      metadata: '3330696388'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 461
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/143685363/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/143685363/original.jpeg
+      metadata: '3330740589'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 462
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/143685387/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/143685387/original.jpeg
+      metadata: '3330740589'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 463
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/143685414/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/143685414/original.jpeg
+      metadata: '3330740589'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 464
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/144379102/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/144379102/original.jpeg
+      metadata: '3330745945'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 465
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/145135937/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/145135937/original.jpeg
+      metadata: '3330802408'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 466
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/145309479/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/145309479/original.jpeg
+      metadata: '3330853545'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 467
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/145621919/original.jpg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/145621919/original.jpg
+      metadata: '3333064657'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 468
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/145880026/original.jpg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/145880026/original.jpg
+      metadata: '3333146858'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 469
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/145880159/original.jpg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/145880159/original.jpg
+      metadata: '3333146858'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 470
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/145879982/original.jpg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/145879982/original.jpg
+      metadata: '3333146858'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 471
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/145880098/original.jpg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/145880098/original.jpg
+      metadata: '3333146858'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 472
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/147096864/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/147096864/original.jpeg
+      metadata: '3333352533'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 473
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/147815375/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/147815375/original.jpeg
+      metadata: '3335106028'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 474
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/147995795/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/147995795/original.jpeg
+      metadata: '3335133116'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 475
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/147995175/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/147995175/original.jpeg
+      metadata: '3335133116'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 476
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/147995804/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/147995804/original.jpeg
+      metadata: '3335133116'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 477
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/86618281/original.jpg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/86618281/original.jpg
+      metadata: '3335139360'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 478
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/86618317/original.jpg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/86618317/original.jpg
+      metadata: '3335139360'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 479
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/86618348/original.jpg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/86618348/original.jpg
+      metadata: '3335139360'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 480
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/128671363/original.jpg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/128671363/original.jpg
+      metadata: '3335389418'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 481
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/128670511/original.jpg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/128670511/original.jpg
+      metadata: '3335389418'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 482
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/146195849/original.jpg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/146195849/original.jpg
+      metadata: '3335389589'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 483
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/147492889/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/147492889/original.jpeg
+      metadata: '3335442819'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 484
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/147492829/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/147492829/original.jpeg
+      metadata: '3335442819'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 485
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/147492883/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/147492883/original.jpeg
+      metadata: '3335442819'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 486
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/148809605/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/148809605/original.jpeg
+      metadata: '3335482638'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 487
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/148806974/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/148806974/original.jpeg
+      metadata: '3335482638'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 488
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/148811008/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/148811008/original.jpeg
+      metadata: '3335482638'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 489
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/48991532/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/48991532/original.jpeg
+      metadata: '3337506337'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 490
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/149349854/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/149349854/original.jpeg
+      metadata: '3337727514'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 491
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/149349875/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/149349875/original.jpeg
+      metadata: '3337727514'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 492
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/149278227/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/149278227/original.jpeg
+      metadata: '3337776271'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 493
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/149278274/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/149278274/original.jpeg
+      metadata: '3337776271'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 494
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/149112069/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/149112069/original.jpeg
+      metadata: '3337799225'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 495
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/149112082/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/149112082/original.jpeg
+      metadata: '3337799225'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 496
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/151180830/original.jpg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/151180830/original.jpg
+      metadata: '3337869383'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 497
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/151180767/original.jpg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/151180767/original.jpg
+      metadata: '3337869383'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 498
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/151180781/original.jpg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/151180781/original.jpg
+      metadata: '3337869383'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 499
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/151180810/original.jpg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/151180810/original.jpg
+      metadata: '3337869383'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 500
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/149664863/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/149664863/original.jpeg
+      metadata: '3337871008'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 501
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/151861877/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/151861877/original.jpeg
+      metadata: '3338013458'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 502
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/151498751/original.jpg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/151498751/original.jpg
+      metadata: '3338015553'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 503
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/150211938/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/150211938/original.jpeg
+      metadata: '3338150032'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 504
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/152391924/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/152391924/original.jpeg
+      metadata: '3343710999'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 505
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/153652927/original.jpg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/153652927/original.jpg
+      metadata: '3354994026'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 506
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/153652956/original.jpg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/153652956/original.jpg
+      metadata: '3354994026'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 507
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/153652907/original.jpg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/153652907/original.jpg
+      metadata: '3354994026'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 508
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/153652942/original.jpg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/153652942/original.jpg
+      metadata: '3354994026'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 509
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/152390973/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/152390973/original.jpeg
+      metadata: '3355015814'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 510
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/151484683/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/151484683/original.jpeg
+      metadata: '3355020776'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 511
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/151484613/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/151484613/original.jpeg
+      metadata: '3355020776'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 512
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/152986935/original.jpg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/152986935/original.jpg
+      metadata: '3355115812'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 513
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/154535230/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/154535230/original.jpeg
+      metadata: '3355176556'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 514
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/123593942/original.jpg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/123593942/original.jpg
+      metadata: '3355204481'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 515
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/123591766/original.jpg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/123591766/original.jpg
+      metadata: '3355204481'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 516
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/154533912/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/154533912/original.jpeg
+      metadata: '3355289503'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 517
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/154188296/original.jpg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/154188296/original.jpg
+      metadata: '3355320335'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 518
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/151244039/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/151244039/original.jpeg
+      metadata: '3355537783'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 519
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/151244073/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/151244073/original.jpeg
+      metadata: '3355537783'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 520
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/154595376/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/154595376/original.jpeg
+      metadata: '3355679571'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 521
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/154595431/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/154595431/original.jpeg
+      metadata: '3355679571'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 522
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/154197959/original.jpg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/154197959/original.jpg
+      metadata: '3355737340'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 523
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/143449582/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/143449582/original.jpeg
+      metadata: '3383881890'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 524
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/142297221/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/142297221/original.jpeg
+      metadata: '3383926864'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 525
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/57361893/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/57361893/original.jpeg
+      metadata: '3383939404'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 526
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/83957717/original.jpg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/83957717/original.jpg
+      metadata: '3383952504'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 527
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/159579427/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/159579427/original.jpeg
+      metadata: '3384063132'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 528
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/90253264/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/90253264/original.jpeg
+      metadata: '3384312525'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 529
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/48141923/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/48141923/original.jpeg
+      metadata: '3384357397'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 530
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/160152802/original.jpg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/160152802/original.jpg
+      metadata: '3384367491'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 531
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/120806046/original.jpg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/120806046/original.jpg
+      metadata: '3384371614'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 532
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/120806038/original.jpg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/120806038/original.jpg
+      metadata: '3384371614'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 533
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/120805869/original.jpg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/120805869/original.jpg
+      metadata: '3384371614'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 534
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/120805715/original.jpg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/120805715/original.jpg
+      metadata: '3384371614'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 535
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/132360732/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/132360732/original.jpeg
+      metadata: '3384388709'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 536
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/160477358/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/160477358/original.jpeg
+      metadata: '3384544692'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 537
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/82493124/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/82493124/original.jpeg
+      metadata: '3384622478'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 538
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/159549037/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/159549037/original.jpeg
+      metadata: '3384707230'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 539
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/159548913/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/159548913/original.jpeg
+      metadata: '3384707230'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 540
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/159549085/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/159549085/original.jpeg
+      metadata: '3384707230'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 541
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/159548951/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/159548951/original.jpeg
+      metadata: '3384707230'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 542
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/162081863/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/162081863/original.jpeg
+      metadata: '3384852576'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 543
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/157125121/original.jpg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/157125121/original.jpg
+      metadata: '3385036729'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 544
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/157125140/original.jpg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/157125140/original.jpg
+      metadata: '3385036729'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 545
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/157125107/original.jpg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/157125107/original.jpg
+      metadata: '3385036729'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 546
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/157777680/original.jpg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/157777680/original.jpg
+      metadata: '3385105182'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 547
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/161052801/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/161052801/original.jpeg
+      metadata: '3385136095'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 548
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/142881395/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/142881395/original.jpeg
+      metadata: '3391294458'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 549
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/142881223/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/142881223/original.jpeg
+      metadata: '3391294458'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 550
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/142881306/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/142881306/original.jpeg
+      metadata: '3391294458'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 551
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/162234763/original.jpg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/162234763/original.jpg
+      metadata: '3391315630'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 552
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/162843102/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/162843102/original.jpeg
+      metadata: '3391324917'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 553
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/142907952/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/142907952/original.jpeg
+      metadata: '3391363452'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 554
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/20563181/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/20563181/original.jpeg
+      metadata: '3391389304'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 555
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/20563207/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/20563207/original.jpeg
+      metadata: '3391389304'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 556
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/20563199/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/20563199/original.jpeg
+      metadata: '3391389304'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 557
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/92606447/original.jpg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/92606447/original.jpg
+      metadata: '3391405371'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 558
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/162558231/original.jpg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/162558231/original.jpg
+      metadata: '3391496762'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 559
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/162652704/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/162652704/original.jpeg
+      metadata: '3391499868'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 560
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/95187419/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/95187419/original.jpeg
+      metadata: '3391520383'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 561
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/7193754/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/7193754/original.jpeg
+      metadata: '3391546303'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 562
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/80038506/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/80038506/original.jpeg
+      metadata: '3391598337'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 563
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/142906474/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/142906474/original.jpeg
+      metadata: '3391640460'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 564
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/142906482/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/142906482/original.jpeg
+      metadata: '3391640460'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 565
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/142905176/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/142905176/original.jpeg
+      metadata: '3391640460'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 566
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/142906327/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/142906327/original.jpeg
+      metadata: '3391640460'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 567
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/39695146/original.jpg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/39695146/original.jpg
+      metadata: '3391647313'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 568
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/150317346/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/150317346/original.jpeg
+      metadata: '3391670497'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 569
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/160064873/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/160064873/original.jpeg
+      metadata: '3391703544'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 570
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/160064905/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/160064905/original.jpeg
+      metadata: '3391703544'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 571
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/160064892/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/160064892/original.jpeg
+      metadata: '3391703544'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 572
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/163277842/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/163277842/original.jpeg
+      metadata: '3391722189'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 573
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/163278774/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/163278774/original.jpeg
+      metadata: '3391722189'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 574
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/163566151/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/163566151/original.jpeg
+      metadata: '3398676045'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 575
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/163566147/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/163566147/original.jpeg
+      metadata: '3398676045'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 576
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/104810267/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/104810267/original.jpeg
+      metadata: '3398746515'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 577
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/164520203/original.jpg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/164520203/original.jpg
+      metadata: '3398842546'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 578
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/164436684/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/164436684/original.jpeg
+      metadata: '3398972468'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 579
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/81159636/original.jpg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/81159636/original.jpg
+      metadata: '3399088473'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 580
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/81159616/original.jpg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/81159616/original.jpg
+      metadata: '3399088473'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 581
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/165420913/original.jpg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/165420913/original.jpg
+      metadata: '3399342052'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 582
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/165984655/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/165984655/original.jpeg
+      metadata: '3399437380'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 583
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/165986380/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/165986380/original.jpeg
+      metadata: '3399437380'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 584
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/165986382/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/165986382/original.jpeg
+      metadata: '3399437380'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 585
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/74428248/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/74428248/original.jpeg
+      metadata: '3407923363'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 586
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/74428344/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/74428344/original.jpeg
+      metadata: '3407923363'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 587
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/74428303/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/74428303/original.jpeg
+      metadata: '3407923363'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 588
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/77281544/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/77281544/original.jpeg
+      metadata: '3407997387'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 589
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/136230808/original.jpg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/136230808/original.jpg
+      metadata: '3408070460'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 590
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/133351939/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/133351939/original.jpeg
+      metadata: '3408176455'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 591
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/133351966/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/133351966/original.jpeg
+      metadata: '3408176455'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 592
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/150885227/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/150885227/original.jpeg
+      metadata: '3408218512'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 593
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/149663539/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/149663539/original.jpeg
+      metadata: '3415364702'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 594
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/130208439/original.jpg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/130208439/original.jpg
+      metadata: '3415369612'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 595
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/149661371/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/149661371/original.jpeg
+      metadata: '3415385813'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 596
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/83234926/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/83234926/original.jpeg
+      metadata: '3415388435'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 597
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/92309482/original.jpg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/92309482/original.jpg
+      metadata: '3415396476'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 598
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/92309531/original.jpg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/92309531/original.jpg
+      metadata: '3415396476'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 599
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/133763887/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/133763887/original.jpeg
+      metadata: '3415407605'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 600
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/133763873/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/133763873/original.jpeg
+      metadata: '3415407605'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 601
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/162940601/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/162940601/original.jpeg
+      metadata: '3415409918'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 602
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/162940631/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/162940631/original.jpeg
+      metadata: '3415409918'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 603
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/7910492/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/7910492/original.jpeg
+      metadata: '3415461311'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 604
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/169969963/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/169969963/original.jpeg
+      metadata: '3415548163'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 605
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/169760550/original.jpg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/169760550/original.jpg
+      metadata: '3415556466'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 606
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/169703172/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/169703172/original.jpeg
+      metadata: '3415574148'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 607
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/131259308/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/131259308/original.jpeg
+      metadata: '3415628629'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 608
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/131258853/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/131258853/original.jpeg
+      metadata: '3415628629'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 609
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/167532559/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/167532559/original.jpeg
+      metadata: '3415630305'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 610
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/167532571/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/167532571/original.jpeg
+      metadata: '3415630305'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 611
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/167532548/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/167532548/original.jpeg
+      metadata: '3415630305'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 612
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/132000778/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/132000778/original.jpeg
+      metadata: '3415655607'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 613
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/149661678/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/149661678/original.jpeg
+      metadata: '3415672798'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 614
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/135723879/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/135723879/original.jpeg
+      metadata: '3415839685'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 615
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/83060416/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/83060416/original.jpeg
+      metadata: '3415859423'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 616
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/167906903/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/167906903/original.jpeg
+      metadata: '3415910283'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 617
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/167962103/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/167962103/original.jpeg
+      metadata: '3416083570'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 618
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/168204213/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/168204213/original.jpeg
+      metadata: '3416085714'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 619
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/169900537/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/169900537/original.jpeg
+      metadata: '3416179477'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 620
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/87018374/original.jpg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/87018374/original.jpg
+      metadata: '3455233611'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 621
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/87018417/original.jpg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/87018417/original.jpg
+      metadata: '3455233611'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 622
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/87018394/original.jpg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/87018394/original.jpg
+      metadata: '3455233611'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 623
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/76477605/original.jpg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/76477605/original.jpg
+      metadata: '3455240880'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 624
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/76477408/original.jpg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/76477408/original.jpg
+      metadata: '3455240880'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 625
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/102061010/original.jpg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/102061010/original.jpg
+      metadata: '3455245790'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 626
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/132313115/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/132313115/original.jpeg
+      metadata: '3455312997'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 627
+  - !!python/tuple
+    - - image/jpeg: https://static.inaturalist.org/photos/88679478/original.jpeg
+    - file_name: https://static.inaturalist.org/photos/88679478/original.jpeg
+      metadata: '3455328843'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 628
+  - !!python/tuple
+    - - image/jpeg: https://static.inaturalist.org/photos/88679452/original.jpeg
+    - file_name: https://static.inaturalist.org/photos/88679452/original.jpeg
+      metadata: '3455328843'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 629
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/170971765/original.jpg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/170971765/original.jpg
+      metadata: '3455388793'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 630
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/143858658/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/143858658/original.jpeg
+      metadata: '3455390101'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 631
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/143858719/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/143858719/original.jpeg
+      metadata: '3455390101'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 632
+  - !!python/tuple
+    - - image/jpeg: https://static.inaturalist.org/photos/172895206/original.jpg
+    - file_name: https://static.inaturalist.org/photos/172895206/original.jpg
+      metadata: '3455394542'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 633
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/141532150/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/141532150/original.jpeg
+      metadata: '3455512861'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 634
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/141532104/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/141532104/original.jpeg
+      metadata: '3455512861'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 635
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/143244395/original.jpg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/143244395/original.jpg
+      metadata: '3455512975'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 636
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/143244449/original.jpg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/143244449/original.jpg
+      metadata: '3455512975'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 637
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/3785370/original.jpg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/3785370/original.jpg
+      metadata: '3455813330'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 638
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/175803670/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/175803670/original.jpeg
+      metadata: '3455916618'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 639
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/94173655/original.jpg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/94173655/original.jpg
+      metadata: '3456154982'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 640
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/175611942/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/175611942/original.jpeg
+      metadata: '3456341100'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 641
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/163237348/original.jpg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/163237348/original.jpg
+      metadata: '3456874894'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 642
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/163237359/original.jpg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/163237359/original.jpg
+      metadata: '3456874894'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 643
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/163237336/original.jpg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/163237336/original.jpg
+      metadata: '3456874894'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 644
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/175803994/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/175803994/original.jpeg
+      metadata: '3456983919'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 645
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/177578635/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/177578635/original.jpeg
+      metadata: '3465909211'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 646
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/23218940/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/23218940/original.jpeg
+      metadata: '3698095313'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 647
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/180107531/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/180107531/original.jpeg
+      metadata: '3698132568'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 648
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/180107488/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/180107488/original.jpeg
+      metadata: '3698132568'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 649
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/180107542/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/180107542/original.jpeg
+      metadata: '3698132568'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 650
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/180107515/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/180107515/original.jpeg
+      metadata: '3698132568'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 651
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/180107555/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/180107555/original.jpeg
+      metadata: '3698132568'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 652
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/180107503/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/180107503/original.jpeg
+      metadata: '3698132568'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 653
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/39180275/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/39180275/original.jpeg
+      metadata: '3698150325'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 654
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/101198350/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/101198350/original.jpeg
+      metadata: '3698257384'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 655
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/53859258/original.jpg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/53859258/original.jpg
+      metadata: '3698260332'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 656
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/182387303/original.jpg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/182387303/original.jpg
+      metadata: '3712590397'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 657
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/186751957/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/186751957/original.jpeg
+      metadata: '3760081253'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 658
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/187501260/original.jpg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/187501260/original.jpg
+      metadata: '3760373597'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 659
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/187500783/original.jpg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/187500783/original.jpg
+      metadata: '3760373597'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 660
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/187285820/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/187285820/original.jpeg
+      metadata: '3760402495'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 661
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/194803591/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/194803591/original.jpeg
+      metadata: '3773026487'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 662
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/196338792/original.jpg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/196338792/original.jpg
+      metadata: '3773258879'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 663
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/194387871/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/194387871/original.jpeg
+      metadata: '3773413898'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 664
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/194387927/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/194387927/original.jpeg
+      metadata: '3773413898'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 665
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/197267811/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/197267811/original.jpeg
+      metadata: '3784684575'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 666
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/197883590/original.jpg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/197883590/original.jpg
+      metadata: '3784687689'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 667
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/189800431/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/189800431/original.jpeg
+      metadata: '3784735412'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 668
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/154017156/original.jpg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/154017156/original.jpg
+      metadata: '3784778402'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 669
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/154017176/original.jpg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/154017176/original.jpg
+      metadata: '3784778402'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 670
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/145796826/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/145796826/original.jpeg
+      metadata: '3784889371'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 671
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/145796899/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/145796899/original.jpeg
+      metadata: '3784889371'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 672
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/145796884/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/145796884/original.jpeg
+      metadata: '3784889371'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 673
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/145796857/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/145796857/original.jpeg
+      metadata: '3784889371'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 674
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/197851967/original.jpg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/197851967/original.jpg
+      metadata: '3784905759'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 675
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/197005142/original.jpg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/197005142/original.jpg
+      metadata: '3784978503'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 676
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/197887557/original.jpg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/197887557/original.jpg
+      metadata: '3785003837'
+      metadata_hidden_from_classification: Geranium nodosum L.
+- !!python/tuple
+  - 677
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/155335729/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/155335729/original.jpeg
+      metadata: '3785023377'
+      metadata_hidden_from_classification: Geranium nodosum L.

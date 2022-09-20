@@ -1,0 +1,1286 @@
+allow_missing: false
+file_column: []
+manifest_files: !!python/tuple
+- brevicaule.csv
+mime_type: !!python/tuple
+- image/jpeg
+remote_location: !!python/tuple
+- 1
+state_version: 1
+subject_set_id: 105388
+waiting_to_link:
+  '76945879': !!python/tuple
+  - 356
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/109705418/original.jpg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/109705418/original.jpg
+      metadata: '3032079365'
+      metadata_hidden_from_classification: Geranium brevicaule Hook.
+  '76945955': !!python/tuple
+  - 397
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/114607801/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/114607801/original.jpeg
+      metadata: '3058840704'
+      metadata_hidden_from_classification: Geranium brevicaule Hook.
+  '76945996': !!python/tuple
+  - 414
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/120762916/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/120762916/original.jpeg
+      metadata: '3090904866'
+      metadata_hidden_from_classification: Geranium brevicaule Hook.
+  '76946028': !!python/tuple
+  - 427
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/126472993/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/126472993/original.jpeg
+      metadata: '3112637469'
+      metadata_hidden_from_classification: Geranium brevicaule Hook.
+  '76946040': !!python/tuple
+  - 435
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/127656896/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/127656896/original.jpeg
+      metadata: '3113419117'
+      metadata_hidden_from_classification: Geranium brevicaule Hook.
+  '76946053': !!python/tuple
+  - 443
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/133713137/original.jpg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/133713137/original.jpg
+      metadata: '3301855850'
+      metadata_hidden_from_classification: Geranium brevicaule Hook.
+  '76946064': !!python/tuple
+  - 450
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/146037348/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/146037348/original.jpeg
+      metadata: '3333109963'
+      metadata_hidden_from_classification: Geranium brevicaule Hook.
+  '76946080': !!python/tuple
+  - 454
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/147433203/original.jpg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/147433203/original.jpg
+      metadata: '3335098781'
+      metadata_hidden_from_classification: Geranium brevicaule Hook.
+  '76946087': !!python/tuple
+  - 458
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/154241612/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/154241612/original.jpeg
+      metadata: '3355391340'
+      metadata_hidden_from_classification: Geranium brevicaule Hook.
+  '76946093': !!python/tuple
+  - 462
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/158331495/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/158331495/original.jpeg
+      metadata: '3384363528'
+      metadata_hidden_from_classification: Geranium brevicaule Hook.
+  '76946098': !!python/tuple
+  - 466
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/160190584/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/160190584/original.jpeg
+      metadata: '3384517521'
+      metadata_hidden_from_classification: Geranium brevicaule Hook.
+  '76946106': !!python/tuple
+  - 470
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/158944465/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/158944465/original.jpeg
+      metadata: '3384837803'
+      metadata_hidden_from_classification: Geranium brevicaule Hook.
+  '76946112': !!python/tuple
+  - 474
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/162351252/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/162351252/original.jpeg
+      metadata: '3391304681'
+      metadata_hidden_from_classification: Geranium brevicaule Hook.
+  '76946131': !!python/tuple
+  - 476
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/163047252/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/163047252/original.jpeg
+      metadata: '3391337060'
+      metadata_hidden_from_classification: Geranium brevicaule Hook.
+  '76946135': !!python/tuple
+  - 478
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/162757064/original.jpg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/162757064/original.jpg
+      metadata: '3391553939'
+      metadata_hidden_from_classification: Geranium brevicaule Hook.
+  '76946139': !!python/tuple
+  - 480
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/162792276/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/162792276/original.jpeg
+      metadata: '3391598915'
+      metadata_hidden_from_classification: Geranium brevicaule Hook.
+waiting_to_upload:
+- !!python/tuple
+  - 381
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/111665730/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/111665730/original.jpeg
+      metadata: '3039408169'
+      metadata_hidden_from_classification: Geranium brevicaule Hook.
+- !!python/tuple
+  - 406
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/120155056/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/120155056/original.jpeg
+      metadata: '3090546289'
+      metadata_hidden_from_classification: Geranium brevicaule Hook.
+- !!python/tuple
+  - 422
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/120168406/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/120168406/original.jpeg
+      metadata: '3097146565'
+      metadata_hidden_from_classification: Geranium brevicaule Hook.
+- !!python/tuple
+  - 431
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/126242465/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/126242465/original.jpeg
+      metadata: '3112757203'
+      metadata_hidden_from_classification: Geranium brevicaule Hook.
+- !!python/tuple
+  - 439
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/131670165/original.jpg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/131670165/original.jpg
+      metadata: '3124770883'
+      metadata_hidden_from_classification: Geranium brevicaule Hook.
+- !!python/tuple
+  - 447
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/134501175/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/134501175/original.jpeg
+      metadata: '3302503394'
+      metadata_hidden_from_classification: Geranium brevicaule Hook.
+- !!python/tuple
+  - 452
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/146198075/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/146198075/original.jpeg
+      metadata: '3333120051'
+      metadata_hidden_from_classification: Geranium brevicaule Hook.
+- !!python/tuple
+  - 456
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/147433191/original.jpg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/147433191/original.jpg
+      metadata: '3335098781'
+      metadata_hidden_from_classification: Geranium brevicaule Hook.
+- !!python/tuple
+  - 460
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/158318496/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/158318496/original.jpeg
+      metadata: '3384343482'
+      metadata_hidden_from_classification: Geranium brevicaule Hook.
+- !!python/tuple
+  - 464
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/158331522/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/158331522/original.jpeg
+      metadata: '3384363528'
+      metadata_hidden_from_classification: Geranium brevicaule Hook.
+- !!python/tuple
+  - 468
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/158944500/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/158944500/original.jpeg
+      metadata: '3384837803'
+      metadata_hidden_from_classification: Geranium brevicaule Hook.
+- !!python/tuple
+  - 472
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/157492844/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/157492844/original.jpeg
+      metadata: '3384880000'
+      metadata_hidden_from_classification: Geranium brevicaule Hook.
+- !!python/tuple
+  - 475
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/162607225/original.jpg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/162607225/original.jpg
+      metadata: '3391304816'
+      metadata_hidden_from_classification: Geranium brevicaule Hook.
+- !!python/tuple
+  - 477
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/163047432/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/163047432/original.jpeg
+      metadata: '3391413048'
+      metadata_hidden_from_classification: Geranium brevicaule Hook.
+- !!python/tuple
+  - 479
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/162757015/original.jpg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/162757015/original.jpg
+      metadata: '3391553939'
+      metadata_hidden_from_classification: Geranium brevicaule Hook.
+- !!python/tuple
+  - 481
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/162792254/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/162792254/original.jpeg
+      metadata: '3391598915'
+      metadata_hidden_from_classification: Geranium brevicaule Hook.
+- !!python/tuple
+  - 482
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/162600004/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/162600004/original.jpeg
+      metadata: '3391680868'
+      metadata_hidden_from_classification: Geranium brevicaule Hook.
+- !!python/tuple
+  - 483
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/165302779/original.jpg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/165302779/original.jpg
+      metadata: '3398790947'
+      metadata_hidden_from_classification: Geranium brevicaule Hook.
+- !!python/tuple
+  - 484
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/164856305/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/164856305/original.jpeg
+      metadata: '3398921670'
+      metadata_hidden_from_classification: Geranium brevicaule Hook.
+- !!python/tuple
+  - 485
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/165900925/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/165900925/original.jpeg
+      metadata: '3398948275'
+      metadata_hidden_from_classification: Geranium brevicaule Hook.
+- !!python/tuple
+  - 486
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/164864236/original.jpg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/164864236/original.jpg
+      metadata: '3399032736'
+      metadata_hidden_from_classification: Geranium brevicaule Hook.
+- !!python/tuple
+  - 487
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/165269639/original.jpg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/165269639/original.jpg
+      metadata: '3399109937'
+      metadata_hidden_from_classification: Geranium brevicaule Hook.
+- !!python/tuple
+  - 488
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/165241837/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/165241837/original.jpeg
+      metadata: '3399248895'
+      metadata_hidden_from_classification: Geranium brevicaule Hook.
+- !!python/tuple
+  - 489
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/165241809/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/165241809/original.jpeg
+      metadata: '3399248895'
+      metadata_hidden_from_classification: Geranium brevicaule Hook.
+- !!python/tuple
+  - 490
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/165272033/original.jpg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/165272033/original.jpg
+      metadata: '3399399955'
+      metadata_hidden_from_classification: Geranium brevicaule Hook.
+- !!python/tuple
+  - 491
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/166381171/original.jpg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/166381171/original.jpg
+      metadata: '3408106775'
+      metadata_hidden_from_classification: Geranium brevicaule Hook.
+- !!python/tuple
+  - 492
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/166381180/original.jpg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/166381180/original.jpg
+      metadata: '3408106775'
+      metadata_hidden_from_classification: Geranium brevicaule Hook.
+- !!python/tuple
+  - 493
+  - !!python/tuple
+    - - image/jpeg: https://static.inaturalist.org/photos/50681632/original.jpeg
+    - file_name: https://static.inaturalist.org/photos/50681632/original.jpeg
+      metadata: '3415498382'
+      metadata_hidden_from_classification: Geranium brevicaule Hook.
+- !!python/tuple
+  - 494
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/168698946/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/168698946/original.jpeg
+      metadata: '3415645507'
+      metadata_hidden_from_classification: Geranium brevicaule Hook.
+- !!python/tuple
+  - 495
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/168698963/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/168698963/original.jpeg
+      metadata: '3415645507'
+      metadata_hidden_from_classification: Geranium brevicaule Hook.
+- !!python/tuple
+  - 496
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/170121632/original.jpg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/170121632/original.jpg
+      metadata: '3415784340'
+      metadata_hidden_from_classification: Geranium brevicaule Hook.
+- !!python/tuple
+  - 497
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/170121613/original.jpg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/170121613/original.jpg
+      metadata: '3415784340'
+      metadata_hidden_from_classification: Geranium brevicaule Hook.
+- !!python/tuple
+  - 498
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/170121621/original.jpg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/170121621/original.jpg
+      metadata: '3415784340'
+      metadata_hidden_from_classification: Geranium brevicaule Hook.
+- !!python/tuple
+  - 499
+  - !!python/tuple
+    - - image/jpeg: https://static.inaturalist.org/photos/116723011/original.jpeg
+    - file_name: https://static.inaturalist.org/photos/116723011/original.jpeg
+      metadata: '3415820524'
+      metadata_hidden_from_classification: Geranium brevicaule Hook.
+- !!python/tuple
+  - 500
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/169842773/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/169842773/original.jpeg
+      metadata: '3415893865'
+      metadata_hidden_from_classification: Geranium brevicaule Hook.
+- !!python/tuple
+  - 501
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/169326688/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/169326688/original.jpeg
+      metadata: '3415971578'
+      metadata_hidden_from_classification: Geranium brevicaule Hook.
+- !!python/tuple
+  - 502
+  - !!python/tuple
+    - - image/jpeg: https://static.inaturalist.org/photos/167662298/original.jpeg
+    - file_name: https://static.inaturalist.org/photos/167662298/original.jpeg
+      metadata: '3415986391'
+      metadata_hidden_from_classification: Geranium brevicaule Hook.
+- !!python/tuple
+  - 503
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/170185541/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/170185541/original.jpeg
+      metadata: '3415988464'
+      metadata_hidden_from_classification: Geranium brevicaule Hook.
+- !!python/tuple
+  - 504
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/169547760/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/169547760/original.jpeg
+      metadata: '3415993146'
+      metadata_hidden_from_classification: Geranium brevicaule Hook.
+- !!python/tuple
+  - 505
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/169547746/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/169547746/original.jpeg
+      metadata: '3415993146'
+      metadata_hidden_from_classification: Geranium brevicaule Hook.
+- !!python/tuple
+  - 506
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/169841670/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/169841670/original.jpeg
+      metadata: '3416034005'
+      metadata_hidden_from_classification: Geranium brevicaule Hook.
+- !!python/tuple
+  - 507
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/169841656/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/169841656/original.jpeg
+      metadata: '3416034005'
+      metadata_hidden_from_classification: Geranium brevicaule Hook.
+- !!python/tuple
+  - 508
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/169843023/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/169843023/original.jpeg
+      metadata: '3416147172'
+      metadata_hidden_from_classification: Geranium brevicaule Hook.
+- !!python/tuple
+  - 509
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/170655595/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/170655595/original.jpeg
+      metadata: '3455344168'
+      metadata_hidden_from_classification: Geranium brevicaule Hook.
+- !!python/tuple
+  - 510
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/170655575/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/170655575/original.jpeg
+      metadata: '3455344168'
+      metadata_hidden_from_classification: Geranium brevicaule Hook.
+- !!python/tuple
+  - 511
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/170715163/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/170715163/original.jpeg
+      metadata: '3455367254'
+      metadata_hidden_from_classification: Geranium brevicaule Hook.
+- !!python/tuple
+  - 512
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/171523230/original.jpg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/171523230/original.jpg
+      metadata: '3455390753'
+      metadata_hidden_from_classification: Geranium brevicaule Hook.
+- !!python/tuple
+  - 513
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/172009490/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/172009490/original.jpeg
+      metadata: '3455411806'
+      metadata_hidden_from_classification: Geranium brevicaule Hook.
+- !!python/tuple
+  - 514
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/170702581/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/170702581/original.jpeg
+      metadata: '3455423368'
+      metadata_hidden_from_classification: Geranium brevicaule Hook.
+- !!python/tuple
+  - 515
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/170702570/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/170702570/original.jpeg
+      metadata: '3455423368'
+      metadata_hidden_from_classification: Geranium brevicaule Hook.
+- !!python/tuple
+  - 516
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/170702607/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/170702607/original.jpeg
+      metadata: '3455423368'
+      metadata_hidden_from_classification: Geranium brevicaule Hook.
+- !!python/tuple
+  - 517
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/170702556/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/170702556/original.jpeg
+      metadata: '3455423368'
+      metadata_hidden_from_classification: Geranium brevicaule Hook.
+- !!python/tuple
+  - 518
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/170702593/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/170702593/original.jpeg
+      metadata: '3455423368'
+      metadata_hidden_from_classification: Geranium brevicaule Hook.
+- !!python/tuple
+  - 519
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/170702624/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/170702624/original.jpeg
+      metadata: '3455423368'
+      metadata_hidden_from_classification: Geranium brevicaule Hook.
+- !!python/tuple
+  - 520
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/173886347/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/173886347/original.jpeg
+      metadata: '3455715574'
+      metadata_hidden_from_classification: Geranium brevicaule Hook.
+- !!python/tuple
+  - 521
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/173890280/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/173890280/original.jpeg
+      metadata: '3455715574'
+      metadata_hidden_from_classification: Geranium brevicaule Hook.
+- !!python/tuple
+  - 522
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/171523259/original.jpg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/171523259/original.jpg
+      metadata: '3455733410'
+      metadata_hidden_from_classification: Geranium brevicaule Hook.
+- !!python/tuple
+  - 523
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/174244231/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/174244231/original.jpeg
+      metadata: '3455741318'
+      metadata_hidden_from_classification: Geranium brevicaule Hook.
+- !!python/tuple
+  - 524
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/172552202/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/172552202/original.jpeg
+      metadata: '3455765899'
+      metadata_hidden_from_classification: Geranium brevicaule Hook.
+- !!python/tuple
+  - 525
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/172552208/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/172552208/original.jpeg
+      metadata: '3455765899'
+      metadata_hidden_from_classification: Geranium brevicaule Hook.
+- !!python/tuple
+  - 526
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/172552213/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/172552213/original.jpeg
+      metadata: '3455765899'
+      metadata_hidden_from_classification: Geranium brevicaule Hook.
+- !!python/tuple
+  - 527
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/170833974/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/170833974/original.jpeg
+      metadata: '3455904028'
+      metadata_hidden_from_classification: Geranium brevicaule Hook.
+- !!python/tuple
+  - 528
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/170833977/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/170833977/original.jpeg
+      metadata: '3455904028'
+      metadata_hidden_from_classification: Geranium brevicaule Hook.
+- !!python/tuple
+  - 529
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/175885815/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/175885815/original.jpeg
+      metadata: '3456018230'
+      metadata_hidden_from_classification: Geranium brevicaule Hook.
+- !!python/tuple
+  - 530
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/175885771/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/175885771/original.jpeg
+      metadata: '3456018230'
+      metadata_hidden_from_classification: Geranium brevicaule Hook.
+- !!python/tuple
+  - 531
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/175885795/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/175885795/original.jpeg
+      metadata: '3456018230'
+      metadata_hidden_from_classification: Geranium brevicaule Hook.
+- !!python/tuple
+  - 532
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/172183824/original.jpg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/172183824/original.jpg
+      metadata: '3456079271'
+      metadata_hidden_from_classification: Geranium brevicaule Hook.
+- !!python/tuple
+  - 533
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/173570380/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/173570380/original.jpeg
+      metadata: '3456095473'
+      metadata_hidden_from_classification: Geranium brevicaule Hook.
+- !!python/tuple
+  - 534
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/173570379/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/173570379/original.jpeg
+      metadata: '3456095473'
+      metadata_hidden_from_classification: Geranium brevicaule Hook.
+- !!python/tuple
+  - 535
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/171843464/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/171843464/original.jpeg
+      metadata: '3456202370'
+      metadata_hidden_from_classification: Geranium brevicaule Hook.
+- !!python/tuple
+  - 536
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/171843441/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/171843441/original.jpeg
+      metadata: '3456202370'
+      metadata_hidden_from_classification: Geranium brevicaule Hook.
+- !!python/tuple
+  - 537
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/171843513/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/171843513/original.jpeg
+      metadata: '3456202370'
+      metadata_hidden_from_classification: Geranium brevicaule Hook.
+- !!python/tuple
+  - 538
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/171843484/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/171843484/original.jpeg
+      metadata: '3456202370'
+      metadata_hidden_from_classification: Geranium brevicaule Hook.
+- !!python/tuple
+  - 539
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/173363610/original.jpg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/173363610/original.jpg
+      metadata: '3456213040'
+      metadata_hidden_from_classification: Geranium brevicaule Hook.
+- !!python/tuple
+  - 540
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/173363626/original.jpg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/173363626/original.jpg
+      metadata: '3456213040'
+      metadata_hidden_from_classification: Geranium brevicaule Hook.
+- !!python/tuple
+  - 541
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/174788643/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/174788643/original.jpeg
+      metadata: '3456218817'
+      metadata_hidden_from_classification: Geranium brevicaule Hook.
+- !!python/tuple
+  - 542
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/173280070/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/173280070/original.jpeg
+      metadata: '3456287348'
+      metadata_hidden_from_classification: Geranium brevicaule Hook.
+- !!python/tuple
+  - 543
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/172017875/original.jpg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/172017875/original.jpg
+      metadata: '3456352894'
+      metadata_hidden_from_classification: Geranium brevicaule Hook.
+- !!python/tuple
+  - 544
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/175204054/original.jpg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/175204054/original.jpg
+      metadata: '3456429397'
+      metadata_hidden_from_classification: Geranium brevicaule Hook.
+- !!python/tuple
+  - 545
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/175204061/original.jpg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/175204061/original.jpg
+      metadata: '3456429397'
+      metadata_hidden_from_classification: Geranium brevicaule Hook.
+- !!python/tuple
+  - 546
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/175204041/original.jpg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/175204041/original.jpg
+      metadata: '3456429397'
+      metadata_hidden_from_classification: Geranium brevicaule Hook.
+- !!python/tuple
+  - 547
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/171632042/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/171632042/original.jpeg
+      metadata: '3456431049'
+      metadata_hidden_from_classification: Geranium brevicaule Hook.
+- !!python/tuple
+  - 548
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/171632051/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/171632051/original.jpeg
+      metadata: '3456431049'
+      metadata_hidden_from_classification: Geranium brevicaule Hook.
+- !!python/tuple
+  - 549
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/171632034/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/171632034/original.jpeg
+      metadata: '3456431049'
+      metadata_hidden_from_classification: Geranium brevicaule Hook.
+- !!python/tuple
+  - 550
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/174773928/original.jpg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/174773928/original.jpg
+      metadata: '3456440233'
+      metadata_hidden_from_classification: Geranium brevicaule Hook.
+- !!python/tuple
+  - 551
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/172086996/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/172086996/original.jpeg
+      metadata: '3456589390'
+      metadata_hidden_from_classification: Geranium brevicaule Hook.
+- !!python/tuple
+  - 552
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/172357310/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/172357310/original.jpeg
+      metadata: '3456632054'
+      metadata_hidden_from_classification: Geranium brevicaule Hook.
+- !!python/tuple
+  - 553
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/175700534/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/175700534/original.jpeg
+      metadata: '3456633411'
+      metadata_hidden_from_classification: Geranium brevicaule Hook.
+- !!python/tuple
+  - 554
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/175700531/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/175700531/original.jpeg
+      metadata: '3456633411'
+      metadata_hidden_from_classification: Geranium brevicaule Hook.
+- !!python/tuple
+  - 555
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/175700527/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/175700527/original.jpeg
+      metadata: '3456633411'
+      metadata_hidden_from_classification: Geranium brevicaule Hook.
+- !!python/tuple
+  - 556
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/173790722/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/173790722/original.jpeg
+      metadata: '3456658813'
+      metadata_hidden_from_classification: Geranium brevicaule Hook.
+- !!python/tuple
+  - 557
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/173790782/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/173790782/original.jpeg
+      metadata: '3456658813'
+      metadata_hidden_from_classification: Geranium brevicaule Hook.
+- !!python/tuple
+  - 558
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/174842182/original.jpg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/174842182/original.jpg
+      metadata: '3456681909'
+      metadata_hidden_from_classification: Geranium brevicaule Hook.
+- !!python/tuple
+  - 559
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/174842193/original.jpg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/174842193/original.jpg
+      metadata: '3456681909'
+      metadata_hidden_from_classification: Geranium brevicaule Hook.
+- !!python/tuple
+  - 560
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/172459908/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/172459908/original.jpeg
+      metadata: '3456686227'
+      metadata_hidden_from_classification: Geranium brevicaule Hook.
+- !!python/tuple
+  - 561
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/172459916/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/172459916/original.jpeg
+      metadata: '3456686227'
+      metadata_hidden_from_classification: Geranium brevicaule Hook.
+- !!python/tuple
+  - 562
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/171494621/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/171494621/original.jpeg
+      metadata: '3456860754'
+      metadata_hidden_from_classification: Geranium brevicaule Hook.
+- !!python/tuple
+  - 563
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/174987427/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/174987427/original.jpeg
+      metadata: '3456981976'
+      metadata_hidden_from_classification: Geranium brevicaule Hook.
+- !!python/tuple
+  - 564
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/175022966/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/175022966/original.jpeg
+      metadata: '3456991903'
+      metadata_hidden_from_classification: Geranium brevicaule Hook.
+- !!python/tuple
+  - 565
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/173963938/original.jpg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/173963938/original.jpg
+      metadata: '3457032022'
+      metadata_hidden_from_classification: Geranium brevicaule Hook.
+- !!python/tuple
+  - 566
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/174649461/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/174649461/original.jpeg
+      metadata: '3457152565'
+      metadata_hidden_from_classification: Geranium brevicaule Hook.
+- !!python/tuple
+  - 567
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/175204150/original.jpg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/175204150/original.jpg
+      metadata: '3457161485'
+      metadata_hidden_from_classification: Geranium brevicaule Hook.
+- !!python/tuple
+  - 568
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/176245844/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/176245844/original.jpeg
+      metadata: '3457191031'
+      metadata_hidden_from_classification: Geranium brevicaule Hook.
+- !!python/tuple
+  - 569
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/176245850/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/176245850/original.jpeg
+      metadata: '3457191031'
+      metadata_hidden_from_classification: Geranium brevicaule Hook.
+- !!python/tuple
+  - 570
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/174458002/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/174458002/original.jpeg
+      metadata: '3457198197'
+      metadata_hidden_from_classification: Geranium brevicaule Hook.
+- !!python/tuple
+  - 571
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/3170502/original.JPG
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/3170502/original.JPG
+      metadata: '3465899303'
+      metadata_hidden_from_classification: Geranium brevicaule Hook.
+- !!python/tuple
+  - 572
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/3170501/original.JPG
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/3170501/original.JPG
+      metadata: '3465899303'
+      metadata_hidden_from_classification: Geranium brevicaule Hook.
+- !!python/tuple
+  - 573
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/3170500/original.JPG
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/3170500/original.JPG
+      metadata: '3465899303'
+      metadata_hidden_from_classification: Geranium brevicaule Hook.
+- !!python/tuple
+  - 574
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/177313906/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/177313906/original.jpeg
+      metadata: '3465922974'
+      metadata_hidden_from_classification: Geranium brevicaule Hook.
+- !!python/tuple
+  - 575
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/177313933/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/177313933/original.jpeg
+      metadata: '3465989816'
+      metadata_hidden_from_classification: Geranium brevicaule Hook.
+- !!python/tuple
+  - 576
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/176980606/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/176980606/original.jpeg
+      metadata: '3466002230'
+      metadata_hidden_from_classification: Geranium brevicaule Hook.
+- !!python/tuple
+  - 577
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/176980611/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/176980611/original.jpeg
+      metadata: '3466002230'
+      metadata_hidden_from_classification: Geranium brevicaule Hook.
+- !!python/tuple
+  - 578
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/176980618/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/176980618/original.jpeg
+      metadata: '3466002230'
+      metadata_hidden_from_classification: Geranium brevicaule Hook.
+- !!python/tuple
+  - 579
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/176980623/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/176980623/original.jpeg
+      metadata: '3466002230'
+      metadata_hidden_from_classification: Geranium brevicaule Hook.
+- !!python/tuple
+  - 580
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/176860311/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/176860311/original.jpeg
+      metadata: '3466074835'
+      metadata_hidden_from_classification: Geranium brevicaule Hook.
+- !!python/tuple
+  - 581
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/176860338/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/176860338/original.jpeg
+      metadata: '3466074835'
+      metadata_hidden_from_classification: Geranium brevicaule Hook.
+- !!python/tuple
+  - 582
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/176860325/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/176860325/original.jpeg
+      metadata: '3466074835'
+      metadata_hidden_from_classification: Geranium brevicaule Hook.
+- !!python/tuple
+  - 583
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/177651119/original.jpg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/177651119/original.jpg
+      metadata: '3466142031'
+      metadata_hidden_from_classification: Geranium brevicaule Hook.
+- !!python/tuple
+  - 584
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/177651131/original.jpg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/177651131/original.jpg
+      metadata: '3466142031'
+      metadata_hidden_from_classification: Geranium brevicaule Hook.
+- !!python/tuple
+  - 585
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/177651126/original.jpg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/177651126/original.jpg
+      metadata: '3466142031'
+      metadata_hidden_from_classification: Geranium brevicaule Hook.
+- !!python/tuple
+  - 586
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/177651128/original.jpg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/177651128/original.jpg
+      metadata: '3466142031'
+      metadata_hidden_from_classification: Geranium brevicaule Hook.
+- !!python/tuple
+  - 587
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/177651123/original.jpg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/177651123/original.jpg
+      metadata: '3466142031'
+      metadata_hidden_from_classification: Geranium brevicaule Hook.
+- !!python/tuple
+  - 588
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/177651136/original.jpg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/177651136/original.jpg
+      metadata: '3466142031'
+      metadata_hidden_from_classification: Geranium brevicaule Hook.
+- !!python/tuple
+  - 589
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/177782481/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/177782481/original.jpeg
+      metadata: '3466191149'
+      metadata_hidden_from_classification: Geranium brevicaule Hook.
+- !!python/tuple
+  - 590
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/177507448/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/177507448/original.jpeg
+      metadata: '3466464931'
+      metadata_hidden_from_classification: Geranium brevicaule Hook.
+- !!python/tuple
+  - 591
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/177507441/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/177507441/original.jpeg
+      metadata: '3466464931'
+      metadata_hidden_from_classification: Geranium brevicaule Hook.
+- !!python/tuple
+  - 592
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/177897047/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/177897047/original.jpeg
+      metadata: '3466525701'
+      metadata_hidden_from_classification: Geranium brevicaule Hook.
+- !!python/tuple
+  - 593
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/178771996/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/178771996/original.jpeg
+      metadata: '3468814951'
+      metadata_hidden_from_classification: Geranium brevicaule Hook.
+- !!python/tuple
+  - 594
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/178781058/original.jpg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/178781058/original.jpg
+      metadata: '3468816215'
+      metadata_hidden_from_classification: Geranium brevicaule Hook.
+- !!python/tuple
+  - 595
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/178800247/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/178800247/original.jpeg
+      metadata: '3468882900'
+      metadata_hidden_from_classification: Geranium brevicaule Hook.
+- !!python/tuple
+  - 596
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/178191493/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/178191493/original.jpeg
+      metadata: '3469041519'
+      metadata_hidden_from_classification: Geranium brevicaule Hook.
+- !!python/tuple
+  - 597
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/179545420/original.jpg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/179545420/original.jpg
+      metadata: '3499343678'
+      metadata_hidden_from_classification: Geranium brevicaule Hook.
+- !!python/tuple
+  - 598
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/179544987/original.jpg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/179544987/original.jpg
+      metadata: '3499343678'
+      metadata_hidden_from_classification: Geranium brevicaule Hook.
+- !!python/tuple
+  - 599
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/180848544/original.jpg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/180848544/original.jpg
+      metadata: '3705504696'
+      metadata_hidden_from_classification: Geranium brevicaule Hook.
+- !!python/tuple
+  - 600
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/181932851/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/181932851/original.jpeg
+      metadata: '3712636717'
+      metadata_hidden_from_classification: Geranium brevicaule Hook.
+- !!python/tuple
+  - 601
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/181932865/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/181932865/original.jpeg
+      metadata: '3712636717'
+      metadata_hidden_from_classification: Geranium brevicaule Hook.
+- !!python/tuple
+  - 602
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/181932858/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/181932858/original.jpeg
+      metadata: '3712636717'
+      metadata_hidden_from_classification: Geranium brevicaule Hook.
+- !!python/tuple
+  - 603
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/182820294/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/182820294/original.jpeg
+      metadata: '3743176703'
+      metadata_hidden_from_classification: Geranium brevicaule Hook.
+- !!python/tuple
+  - 604
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/184275056/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/184275056/original.jpeg
+      metadata: '3747076139'
+      metadata_hidden_from_classification: Geranium brevicaule Hook.
+- !!python/tuple
+  - 605
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/184274994/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/184274994/original.jpeg
+      metadata: '3747076139'
+      metadata_hidden_from_classification: Geranium brevicaule Hook.
+- !!python/tuple
+  - 606
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/184275096/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/184275096/original.jpeg
+      metadata: '3747076139'
+      metadata_hidden_from_classification: Geranium brevicaule Hook.
+- !!python/tuple
+  - 607
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/183977607/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/183977607/original.jpeg
+      metadata: '3747259936'
+      metadata_hidden_from_classification: Geranium brevicaule Hook.
+- !!python/tuple
+  - 608
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/184276299/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/184276299/original.jpeg
+      metadata: '3759069939'
+      metadata_hidden_from_classification: Geranium brevicaule Hook.
+- !!python/tuple
+  - 609
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/184277611/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/184277611/original.jpeg
+      metadata: '3759069939'
+      metadata_hidden_from_classification: Geranium brevicaule Hook.
+- !!python/tuple
+  - 610
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/184276311/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/184276311/original.jpeg
+      metadata: '3759069939'
+      metadata_hidden_from_classification: Geranium brevicaule Hook.
+- !!python/tuple
+  - 611
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/184276209/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/184276209/original.jpeg
+      metadata: '3759069939'
+      metadata_hidden_from_classification: Geranium brevicaule Hook.
+- !!python/tuple
+  - 612
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/184276330/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/184276330/original.jpeg
+      metadata: '3759069939'
+      metadata_hidden_from_classification: Geranium brevicaule Hook.
+- !!python/tuple
+  - 613
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/187569733/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/187569733/original.jpeg
+      metadata: '3759357642'
+      metadata_hidden_from_classification: Geranium brevicaule Hook.
+- !!python/tuple
+  - 614
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/187569794/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/187569794/original.jpeg
+      metadata: '3759357642'
+      metadata_hidden_from_classification: Geranium brevicaule Hook.
+- !!python/tuple
+  - 615
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/187569869/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/187569869/original.jpeg
+      metadata: '3759357642'
+      metadata_hidden_from_classification: Geranium brevicaule Hook.
+- !!python/tuple
+  - 616
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/189373489/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/189373489/original.jpeg
+      metadata: '3759812567'
+      metadata_hidden_from_classification: Geranium brevicaule Hook.
+- !!python/tuple
+  - 617
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/189372186/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/189372186/original.jpeg
+      metadata: '3759812567'
+      metadata_hidden_from_classification: Geranium brevicaule Hook.
+- !!python/tuple
+  - 618
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/189377519/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/189377519/original.jpeg
+      metadata: '3760027647'
+      metadata_hidden_from_classification: Geranium brevicaule Hook.
+- !!python/tuple
+  - 619
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/188651184/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/188651184/original.jpeg
+      metadata: '3760032169'
+      metadata_hidden_from_classification: Geranium brevicaule Hook.
+- !!python/tuple
+  - 620
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/186349132/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/186349132/original.jpeg
+      metadata: '3760035934'
+      metadata_hidden_from_classification: Geranium brevicaule Hook.
+- !!python/tuple
+  - 621
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/189377798/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/189377798/original.jpeg
+      metadata: '3760239621'
+      metadata_hidden_from_classification: Geranium brevicaule Hook.
+- !!python/tuple
+  - 622
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/185558512/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/185558512/original.jpeg
+      metadata: '3760249516'
+      metadata_hidden_from_classification: Geranium brevicaule Hook.
+- !!python/tuple
+  - 623
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/38008848/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/38008848/original.jpeg
+      metadata: '3764500313'
+      metadata_hidden_from_classification: Geranium brevicaule Hook.
+- !!python/tuple
+  - 624
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/193536622/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/193536622/original.jpeg
+      metadata: '3772538672'
+      metadata_hidden_from_classification: Geranium brevicaule Hook.
+- !!python/tuple
+  - 625
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/191443450/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/191443450/original.jpeg
+      metadata: '3772675558'
+      metadata_hidden_from_classification: Geranium brevicaule Hook.
+- !!python/tuple
+  - 626
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/191472510/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/191472510/original.jpeg
+      metadata: '3772693636'
+      metadata_hidden_from_classification: Geranium brevicaule Hook.
+- !!python/tuple
+  - 627
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/191933169/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/191933169/original.jpeg
+      metadata: '3772707991'
+      metadata_hidden_from_classification: Geranium brevicaule Hook.
+- !!python/tuple
+  - 628
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/192591991/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/192591991/original.jpeg
+      metadata: '3773475501'
+      metadata_hidden_from_classification: Geranium brevicaule Hook.
+- !!python/tuple
+  - 629
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/195867586/original.jpg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/195867586/original.jpg
+      metadata: '3773546642'
+      metadata_hidden_from_classification: Geranium brevicaule Hook.
+- !!python/tuple
+  - 630
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/198815230/original.jpg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/198815230/original.jpg
+      metadata: '3785008367'
+      metadata_hidden_from_classification: Geranium brevicaule Hook.
+- !!python/tuple
+  - 631
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/198815223/original.jpg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/198815223/original.jpg
+      metadata: '3785008367'
+      metadata_hidden_from_classification: Geranium brevicaule Hook.

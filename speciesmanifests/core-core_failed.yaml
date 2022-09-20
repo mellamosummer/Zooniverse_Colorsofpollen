@@ -1,0 +1,677 @@
+allow_missing: false
+file_column: []
+manifest_files: !!python/tuple
+- core-core.csv
+mime_type: !!python/tuple
+- image/jpeg
+remote_location: !!python/tuple
+- 1
+state_version: 1
+subject_set_id: 105414
+waiting_to_link: {}
+waiting_to_upload:
+- !!python/tuple
+  - 0
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/7068823/original.jpg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/7068823/original.jpg
+      metadata: '1500232495'
+      metadata_hidden_from_classification: Geranium core-core Steud.
+- !!python/tuple
+  - 1
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/42764811/original.jpg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/42764811/original.jpg
+      metadata: '2311284369'
+      metadata_hidden_from_classification: Geranium core-core Steud.
+- !!python/tuple
+  - 2
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/42764854/original.jpg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/42764854/original.jpg
+      metadata: '2311284369'
+      metadata_hidden_from_classification: Geranium core-core Steud.
+- !!python/tuple
+  - 3
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/42764824/original.jpg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/42764824/original.jpg
+      metadata: '2311284369'
+      metadata_hidden_from_classification: Geranium core-core Steud.
+- !!python/tuple
+  - 4
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/42764845/original.jpg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/42764845/original.jpg
+      metadata: '2311284369'
+      metadata_hidden_from_classification: Geranium core-core Steud.
+- !!python/tuple
+  - 5
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/3071412/original.jpg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/3071412/original.jpg
+      metadata: '2350311697'
+      metadata_hidden_from_classification: Geranium core-core Steud.
+- !!python/tuple
+  - 6
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/98038255/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/98038255/original.jpeg
+      metadata: '2873998437'
+      metadata_hidden_from_classification: Geranium core-core Steud.
+- !!python/tuple
+  - 7
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/98038261/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/98038261/original.jpeg
+      metadata: '2873998437'
+      metadata_hidden_from_classification: Geranium core-core Steud.
+- !!python/tuple
+  - 8
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/98038251/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/98038251/original.jpeg
+      metadata: '2873998437'
+      metadata_hidden_from_classification: Geranium core-core Steud.
+- !!python/tuple
+  - 9
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/102238232/original.jpg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/102238232/original.jpg
+      metadata: '2988345795'
+      metadata_hidden_from_classification: Geranium core-core Steud.
+- !!python/tuple
+  - 10
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/111473009/original.jpg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/111473009/original.jpg
+      metadata: '3039371949'
+      metadata_hidden_from_classification: Geranium core-core Steud.
+- !!python/tuple
+  - 11
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/111472995/original.jpg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/111472995/original.jpg
+      metadata: '3039371949'
+      metadata_hidden_from_classification: Geranium core-core Steud.
+- !!python/tuple
+  - 12
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/111472987/original.jpg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/111472987/original.jpg
+      metadata: '3039371949'
+      metadata_hidden_from_classification: Geranium core-core Steud.
+- !!python/tuple
+  - 13
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/111473039/original.jpg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/111473039/original.jpg
+      metadata: '3039371949'
+      metadata_hidden_from_classification: Geranium core-core Steud.
+- !!python/tuple
+  - 14
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/151244471/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/151244471/original.jpeg
+      metadata: '3338096979'
+      metadata_hidden_from_classification: Geranium core-core Steud.
+- !!python/tuple
+  - 15
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/97863670/original.jpg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/97863670/original.jpg
+      metadata: '3455197638'
+      metadata_hidden_from_classification: Geranium core-core Steud.
+- !!python/tuple
+  - 16
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/97863686/original.jpg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/97863686/original.jpg
+      metadata: '3455197638'
+      metadata_hidden_from_classification: Geranium core-core Steud.
+- !!python/tuple
+  - 17
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/51097800/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/51097800/original.jpeg
+      metadata: '3455201427'
+      metadata_hidden_from_classification: Geranium core-core Steud.
+- !!python/tuple
+  - 18
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/51097784/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/51097784/original.jpeg
+      metadata: '3455201427'
+      metadata_hidden_from_classification: Geranium core-core Steud.
+- !!python/tuple
+  - 19
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/51097790/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/51097790/original.jpeg
+      metadata: '3455201427'
+      metadata_hidden_from_classification: Geranium core-core Steud.
+- !!python/tuple
+  - 20
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/51097797/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/51097797/original.jpeg
+      metadata: '3455201427'
+      metadata_hidden_from_classification: Geranium core-core Steud.
+- !!python/tuple
+  - 21
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/51096335/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/51096335/original.jpeg
+      metadata: '3455290690'
+      metadata_hidden_from_classification: Geranium core-core Steud.
+- !!python/tuple
+  - 22
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/51096291/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/51096291/original.jpeg
+      metadata: '3455290690'
+      metadata_hidden_from_classification: Geranium core-core Steud.
+- !!python/tuple
+  - 23
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/51096325/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/51096325/original.jpeg
+      metadata: '3455290690'
+      metadata_hidden_from_classification: Geranium core-core Steud.
+- !!python/tuple
+  - 24
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/51096329/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/51096329/original.jpeg
+      metadata: '3455290690'
+      metadata_hidden_from_classification: Geranium core-core Steud.
+- !!python/tuple
+  - 25
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/51096312/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/51096312/original.jpeg
+      metadata: '3455290690'
+      metadata_hidden_from_classification: Geranium core-core Steud.
+- !!python/tuple
+  - 26
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/51096342/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/51096342/original.jpeg
+      metadata: '3455290690'
+      metadata_hidden_from_classification: Geranium core-core Steud.
+- !!python/tuple
+  - 27
+  - !!python/tuple
+    - - image/jpeg: https://static.inaturalist.org/photos/37400466/original.jpg
+    - file_name: https://static.inaturalist.org/photos/37400466/original.jpg
+      metadata: '3455312540'
+      metadata_hidden_from_classification: Geranium core-core Steud.
+- !!python/tuple
+  - 28
+  - !!python/tuple
+    - - image/jpeg: https://static.inaturalist.org/photos/37400434/original.jpg
+    - file_name: https://static.inaturalist.org/photos/37400434/original.jpg
+      metadata: '3455312540'
+      metadata_hidden_from_classification: Geranium core-core Steud.
+- !!python/tuple
+  - 29
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/170332099/original.jpg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/170332099/original.jpg
+      metadata: '3455320681'
+      metadata_hidden_from_classification: Geranium core-core Steud.
+- !!python/tuple
+  - 30
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/55744934/original.jpg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/55744934/original.jpg
+      metadata: '3455367702'
+      metadata_hidden_from_classification: Geranium core-core Steud.
+- !!python/tuple
+  - 31
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/55744931/original.jpg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/55744931/original.jpg
+      metadata: '3455367702'
+      metadata_hidden_from_classification: Geranium core-core Steud.
+- !!python/tuple
+  - 32
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/55744947/original.jpg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/55744947/original.jpg
+      metadata: '3455367702'
+      metadata_hidden_from_classification: Geranium core-core Steud.
+- !!python/tuple
+  - 33
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/50946698/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/50946698/original.jpeg
+      metadata: '3455800513'
+      metadata_hidden_from_classification: Geranium core-core Steud.
+- !!python/tuple
+  - 34
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/50946733/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/50946733/original.jpeg
+      metadata: '3455800513'
+      metadata_hidden_from_classification: Geranium core-core Steud.
+- !!python/tuple
+  - 35
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/50946714/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/50946714/original.jpeg
+      metadata: '3455800513'
+      metadata_hidden_from_classification: Geranium core-core Steud.
+- !!python/tuple
+  - 36
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/50946724/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/50946724/original.jpeg
+      metadata: '3455800513'
+      metadata_hidden_from_classification: Geranium core-core Steud.
+- !!python/tuple
+  - 37
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/50946747/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/50946747/original.jpeg
+      metadata: '3455800513'
+      metadata_hidden_from_classification: Geranium core-core Steud.
+- !!python/tuple
+  - 38
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/176085464/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/176085464/original.jpeg
+      metadata: '3455839443'
+      metadata_hidden_from_classification: Geranium core-core Steud.
+- !!python/tuple
+  - 39
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/176085470/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/176085470/original.jpeg
+      metadata: '3455839443'
+      metadata_hidden_from_classification: Geranium core-core Steud.
+- !!python/tuple
+  - 40
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/176085444/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/176085444/original.jpeg
+      metadata: '3455839443'
+      metadata_hidden_from_classification: Geranium core-core Steud.
+- !!python/tuple
+  - 41
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/176085455/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/176085455/original.jpeg
+      metadata: '3455839443'
+      metadata_hidden_from_classification: Geranium core-core Steud.
+- !!python/tuple
+  - 42
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/170639879/original.jpg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/170639879/original.jpg
+      metadata: '3456517594'
+      metadata_hidden_from_classification: Geranium core-core Steud.
+- !!python/tuple
+  - 43
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/145937698/original.jpg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/145937698/original.jpg
+      metadata: '3456667008'
+      metadata_hidden_from_classification: Geranium core-core Steud.
+- !!python/tuple
+  - 44
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/169184721/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/169184721/original.jpeg
+      metadata: '3456898655'
+      metadata_hidden_from_classification: Geranium core-core Steud.
+- !!python/tuple
+  - 45
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/45085581/original.jpg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/45085581/original.jpg
+      metadata: '3465894327'
+      metadata_hidden_from_classification: Geranium core-core Steud.
+- !!python/tuple
+  - 46
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/121674837/original.jpg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/121674837/original.jpg
+      metadata: '3465895416'
+      metadata_hidden_from_classification: Geranium core-core Steud.
+- !!python/tuple
+  - 47
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/133029981/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/133029981/original.jpeg
+      metadata: '3465939527'
+      metadata_hidden_from_classification: Geranium core-core Steud.
+- !!python/tuple
+  - 48
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/133029941/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/133029941/original.jpeg
+      metadata: '3465939527'
+      metadata_hidden_from_classification: Geranium core-core Steud.
+- !!python/tuple
+  - 49
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/49171105/original.jpg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/49171105/original.jpg
+      metadata: '3465964323'
+      metadata_hidden_from_classification: Geranium core-core Steud.
+- !!python/tuple
+  - 50
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/12703883/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/12703883/original.jpeg
+      metadata: '3465985322'
+      metadata_hidden_from_classification: Geranium core-core Steud.
+- !!python/tuple
+  - 51
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/12703881/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/12703881/original.jpeg
+      metadata: '3465985322'
+      metadata_hidden_from_classification: Geranium core-core Steud.
+- !!python/tuple
+  - 52
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/172704483/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/172704483/original.jpeg
+      metadata: '3465987851'
+      metadata_hidden_from_classification: Geranium core-core Steud.
+- !!python/tuple
+  - 53
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/85735461/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/85735461/original.jpeg
+      metadata: '3465997461'
+      metadata_hidden_from_classification: Geranium core-core Steud.
+- !!python/tuple
+  - 54
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/40642746/original.jpg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/40642746/original.jpg
+      metadata: '3466024355'
+      metadata_hidden_from_classification: Geranium core-core Steud.
+- !!python/tuple
+  - 55
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/28350308/original.jpg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/28350308/original.jpg
+      metadata: '3466078340'
+      metadata_hidden_from_classification: Geranium core-core Steud.
+- !!python/tuple
+  - 56
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/28350306/original.jpg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/28350306/original.jpg
+      metadata: '3466078340'
+      metadata_hidden_from_classification: Geranium core-core Steud.
+- !!python/tuple
+  - 57
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/28350313/original.jpg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/28350313/original.jpg
+      metadata: '3466078340'
+      metadata_hidden_from_classification: Geranium core-core Steud.
+- !!python/tuple
+  - 58
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/176898911/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/176898911/original.jpeg
+      metadata: '3466079152'
+      metadata_hidden_from_classification: Geranium core-core Steud.
+- !!python/tuple
+  - 59
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/124662924/original.jpg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/124662924/original.jpg
+      metadata: '3466085557'
+      metadata_hidden_from_classification: Geranium core-core Steud.
+- !!python/tuple
+  - 60
+  - !!python/tuple
+    - - image/jpeg: https://static.inaturalist.org/photos/105317370/original.jpeg
+    - file_name: https://static.inaturalist.org/photos/105317370/original.jpeg
+      metadata: '3466087509'
+      metadata_hidden_from_classification: Geranium core-core Steud.
+- !!python/tuple
+  - 61
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/162754334/original.jpg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/162754334/original.jpg
+      metadata: '3466103677'
+      metadata_hidden_from_classification: Geranium core-core Steud.
+- !!python/tuple
+  - 62
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/144295744/original.jpg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/144295744/original.jpg
+      metadata: '3466219714'
+      metadata_hidden_from_classification: Geranium core-core Steud.
+- !!python/tuple
+  - 63
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/138823606/original.jpg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/138823606/original.jpg
+      metadata: '3466233525'
+      metadata_hidden_from_classification: Geranium core-core Steud.
+- !!python/tuple
+  - 64
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/86227626/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/86227626/original.jpeg
+      metadata: '3466239438'
+      metadata_hidden_from_classification: Geranium core-core Steud.
+- !!python/tuple
+  - 65
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/20482908/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/20482908/original.jpeg
+      metadata: '3466320315'
+      metadata_hidden_from_classification: Geranium core-core Steud.
+- !!python/tuple
+  - 66
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/81078720/original.jpg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/81078720/original.jpg
+      metadata: '3466327399'
+      metadata_hidden_from_classification: Geranium core-core Steud.
+- !!python/tuple
+  - 67
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/112284389/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/112284389/original.jpeg
+      metadata: '3466329554'
+      metadata_hidden_from_classification: Geranium core-core Steud.
+- !!python/tuple
+  - 68
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/112284272/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/112284272/original.jpeg
+      metadata: '3466329554'
+      metadata_hidden_from_classification: Geranium core-core Steud.
+- !!python/tuple
+  - 69
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/177611762/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/177611762/original.jpeg
+      metadata: '3466409402'
+      metadata_hidden_from_classification: Geranium core-core Steud.
+- !!python/tuple
+  - 70
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/177611747/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/177611747/original.jpeg
+      metadata: '3466409402'
+      metadata_hidden_from_classification: Geranium core-core Steud.
+- !!python/tuple
+  - 71
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/177611788/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/177611788/original.jpeg
+      metadata: '3466409402'
+      metadata_hidden_from_classification: Geranium core-core Steud.
+- !!python/tuple
+  - 72
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/177611773/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/177611773/original.jpeg
+      metadata: '3466409402'
+      metadata_hidden_from_classification: Geranium core-core Steud.
+- !!python/tuple
+  - 73
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/177611804/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/177611804/original.jpeg
+      metadata: '3466409402'
+      metadata_hidden_from_classification: Geranium core-core Steud.
+- !!python/tuple
+  - 74
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/177611818/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/177611818/original.jpeg
+      metadata: '3466409402'
+      metadata_hidden_from_classification: Geranium core-core Steud.
+- !!python/tuple
+  - 75
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/177611754/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/177611754/original.jpeg
+      metadata: '3466409402'
+      metadata_hidden_from_classification: Geranium core-core Steud.
+- !!python/tuple
+  - 76
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/133864396/original.jpg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/133864396/original.jpg
+      metadata: '3468694416'
+      metadata_hidden_from_classification: Geranium core-core Steud.
+- !!python/tuple
+  - 77
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/109781358/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/109781358/original.jpeg
+      metadata: '3468800366'
+      metadata_hidden_from_classification: Geranium core-core Steud.
+- !!python/tuple
+  - 78
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/109781372/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/109781372/original.jpeg
+      metadata: '3468800366'
+      metadata_hidden_from_classification: Geranium core-core Steud.
+- !!python/tuple
+  - 79
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/37472222/original.jpg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/37472222/original.jpg
+      metadata: '3468945327'
+      metadata_hidden_from_classification: Geranium core-core Steud.
+- !!python/tuple
+  - 80
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/123491716/original.jpg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/123491716/original.jpg
+      metadata: '3469015438'
+      metadata_hidden_from_classification: Geranium core-core Steud.
+- !!python/tuple
+  - 81
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/89163677/original.jpg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/89163677/original.jpg
+      metadata: '3499604381'
+      metadata_hidden_from_classification: Geranium core-core Steud.
+- !!python/tuple
+  - 82
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/89163697/original.jpg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/89163697/original.jpg
+      metadata: '3499604381'
+      metadata_hidden_from_classification: Geranium core-core Steud.
+- !!python/tuple
+  - 83
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/124296579/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/124296579/original.jpeg
+      metadata: '3499689335'
+      metadata_hidden_from_classification: Geranium core-core Steud.
+- !!python/tuple
+  - 84
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/124296599/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/124296599/original.jpeg
+      metadata: '3499689335'
+      metadata_hidden_from_classification: Geranium core-core Steud.
+- !!python/tuple
+  - 85
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/126357097/original.jpg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/126357097/original.jpg
+      metadata: '3743056363'
+      metadata_hidden_from_classification: Geranium core-core Steud.
+- !!python/tuple
+  - 86
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/126357120/original.jpg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/126357120/original.jpg
+      metadata: '3743056363'
+      metadata_hidden_from_classification: Geranium core-core Steud.
+- !!python/tuple
+  - 87
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/4194624/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/4194624/original.jpeg
+      metadata: '3743185302'
+      metadata_hidden_from_classification: Geranium core-core Steud.
+- !!python/tuple
+  - 88
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/4194641/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/4194641/original.jpeg
+      metadata: '3743187301'
+      metadata_hidden_from_classification: Geranium core-core Steud.
+- !!python/tuple
+  - 89
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/45103811/original.jpg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/45103811/original.jpg
+      metadata: '3759610374'
+      metadata_hidden_from_classification: Geranium core-core Steud.
+- !!python/tuple
+  - 90
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/188795002/original.jpg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/188795002/original.jpg
+      metadata: '3760132268'
+      metadata_hidden_from_classification: Geranium core-core Steud.
+- !!python/tuple
+  - 91
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/188795056/original.jpg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/188795056/original.jpg
+      metadata: '3760132268'
+      metadata_hidden_from_classification: Geranium core-core Steud.
+- !!python/tuple
+  - 92
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/188795143/original.jpg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/188795143/original.jpg
+      metadata: '3760132268'
+      metadata_hidden_from_classification: Geranium core-core Steud.
+- !!python/tuple
+  - 93
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/188795098/original.jpg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/188795098/original.jpg
+      metadata: '3760132268'
+      metadata_hidden_from_classification: Geranium core-core Steud.
+- !!python/tuple
+  - 94
+  - !!python/tuple
+    - - image/jpeg: https://inaturalist-open-data.s3.amazonaws.com/photos/195476696/original.jpeg
+    - file_name: https://inaturalist-open-data.s3.amazonaws.com/photos/195476696/original.jpeg
+      metadata: '3773681119'
+      metadata_hidden_from_classification: Geranium core-core Steud.
