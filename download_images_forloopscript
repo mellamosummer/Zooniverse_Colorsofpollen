@@ -1,0 +1,82 @@
+#downloading images from species manifests & saving by inat image ID
+mkdir csvs
+mv *.csv csvs
+
+#saves image link from species manifest
+for i in *.csv
+do
+cat $i | sed '1d' | cut -d , -f 1 >links_$i
+done
+
+#save file names from previous file
+ for i in links*
+ do
+cut -d / -f 5 $i >filenames_$i
+done
+
+#move image links & file names to own directory
+mkdir links
+mv *links* links
+
+#make individual species folders
+for file in *.csv
+do
+dir="${file%.csv}"
+mkdir -- "$dir"
+mv -- "$file" "$dir"
+done
+
+#move link files back
+mv links/* .
+rm -r links
+
+#move all files into same name dir
+for dir in */; do find . -mindepth 1 -maxdepth 1 -type f -name "*${dir%*/}*.csv" -exec mv {} ${dir}/ \;; done
+
+
+#POSSIBLE FOR LOOP????
+For i in */
+do
+links=links*
+filenames=filename*
+paste $links $filenames | sed 's/\t/,/g' > output_file
+while IFS=, read a b
+do wget $a -O $b
+done <output_file
+
+
+#make file
+paste link filename | sed 's/\t/,/g' > output_file 
+
+#for a file with a=image url and b=name.jpg
+while IFS=, read a b
+do wget $a -O $b
+done <output_file
+
+
+
+
+
+
+
+
+
+
+
+
+#if need to rename because ?
+for i in *.jpeg*
+do
+mv "$i" "${i%.*}"
+done
+
+#then
+
+for f in * ; do
+  mv "$f" "$f.jpeg"
+done
+
+
+##TEST
+cat ×cantabrigiense\ copy.csv | sed '1d' | cut -d , -f 1 | cut -d / -f 5 >imageid
+cat ×cantabrigiense\ copy.csv | sed '1d' | cut -d , -f 1 > imagelinks
