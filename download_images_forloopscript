@@ -9,9 +9,9 @@ cat $i | sed '1d' | cut -d , -f 1 >links_$i
 done
 
 #save file names from previous file
- for i in links*
- do
-cut -d / -f 5 $i >filenames_$i
+for i in links*
+do
+cut -d / -f 5 $i | sed 's/$/.jpeg/' > filenames_$i
 done
 
 #move image links & file names to own directory
@@ -33,50 +33,17 @@ rm -r links
 #move all files into same name dir
 for dir in */; do find . -mindepth 1 -maxdepth 1 -type f -name "*${dir%*/}*.csv" -exec mv {} ${dir}/ \;; done
 
-
-#POSSIBLE FOR LOOP????
-For i in */
+#for loop to make output_file
+for dir in */
 do
-links=links*
-filenames=filename*
-paste $links $filenames | sed 's/\t/,/g' > output_file
-while IFS=, read a b
-do wget $a -O $b
-done <output_file
-
-
-#make file
-paste link filename | sed 's/\t/,/g' > output_file 
-
-#for a file with a=image url and b=name.jpg
-while IFS=, read a b
-do wget $a -O $b
-done <output_file
-
-
-
-
-
-
-
-
-
-
-
-
-#if need to rename because ?
-for i in *.jpeg*
-do
-mv "$i" "${i%.*}"
+paste $dir/link* $dir/file* | sed 's/\t/,/g' > $dir/output_file
 done
 
-#then
-
-for f in * ; do
-  mv "$f" "$f.jpeg"
+#for loop do
+for dir in */
+do
+while IFS=, read url name
+do
+wget -O ${dir}/${name} ${url}
+done<${dir}/output_file
 done
-
-
-##TEST
-cat ×cantabrigiense\ copy.csv | sed '1d' | cut -d , -f 1 | cut -d / -f 5 >imageid
-cat ×cantabrigiense\ copy.csv | sed '1d' | cut -d , -f 1 > imagelinks
