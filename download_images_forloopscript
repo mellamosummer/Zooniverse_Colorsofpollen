@@ -1,19 +1,23 @@
 Summer Blanco
-PhD student
-Shu-Mei Chang & Jim Leebens-Mack Lab
+PhD student, Department of Plant Biology
+Chang & Leebens-Mack Lab
 September 22, 2022
 
-Ilastik Image download script
+Image download script for Anther Color workflow
 
-#This scripts uses Zooniverse species manifest csv files with image url,
-#gbif ID, and species name to download images for ALL geranium species into
-#individual folders
+#This scripts uses Zooniverse species manifest csv files with image url, gbif ID, and species name to download images for ALL geranium species into individual folder.
 
-in directory /speciesmanifests there are 100+ csv files
-
+#In directory /speciesmanifests there are 100+ csv files
 #move the csvs into their own directory
 mkdir csvs
 mv *.csv csvs
+
+cd .csvs
+
+#remove redundant folders
+rm robertianum_Pi*
+rm Picard*
+rm Tourn*
 
 #saves image link from species manifest
 for i in *.csv
@@ -52,7 +56,7 @@ do
 paste $dir/link* $dir/file* | sed 's/\t/,/g' > $dir/output_file
 done
 
-#subargenteum, argenteum, robertianum picard, and Picard didnt work for some reason so need to so individually
+#subargenteum & argenteum didnt work for some reason so need to so individually
 
 #saves image link from species manifest
 cd subargenteum
@@ -61,19 +65,11 @@ cat links_subargenteum.csv| cut -d / -f 5 | sed 's/$/.jpeg/' > filenames_subarge
 paste links_subargenteum.csv filenames_subargenteum.csv | sed 's/\t/,/g' > output_file
 cd ..
 
-cd robertianum_Picard
-cat robertianum_Picard.csv| sed '1d' | cut -d , -f 1 >links_robertianum_Picard.csv
-cat links_robertianum_Picard.csv| cut -d / -f 5 | sed 's/$/.jpeg/' > filenames_robertianum_Picard.csv
-paste links_robertianum_Picard.csv filenames_robertianum_Picard.csv | sed 's/\t/,/g' > output_file
+cd argenteum
+cat argenteum.csv| sed '1d' | cut -d , -f 1 >links_argenteum.csv
+cat links_argenteum.csv| cut -d / -f 5 | sed 's/$/.jpeg/' > filenames_argenteum.csv
+paste links_argenteum.csv filenames_argenteum.csv | sed 's/\t/,/g' > output_file
 cd ..
-
-cd Picard
-rm *robertianum*
-cat Picard.csv| sed '1d' | cut -d , -f 1 >links_Picard.csv
-cat links_Picard.csv| cut -d / -f 5 | sed 's/$/.jpeg/' > filenames_Picard.csv
-paste links_Picard.csv filenames_Picard.csv | sed 's/\t/,/g' > output_file
-cd ..
-
 
 #for loop to
 for dir in */
